@@ -6,7 +6,7 @@ This project is a comprehensive Library Management System built in Python, desig
 
 **Key Features**
 
-**1. User Authentication Management**
+1. User Authentication Management
 
     Login Functionality
         Verifies user credentials against stored data in an Excel file.
@@ -23,7 +23,7 @@ This project is a comprehensive Library Management System built in Python, desig
     Functions to load and save user data to/from Excel files.
 
 
-**2. Book Management**
+2. Book Management
    
     Add New Book
         Allows adding new books with details like ISBN, title, author, check-in date, and check-out date.
@@ -54,7 +54,8 @@ This project is a comprehensive Library Management System built in Python, desig
         Displays a list of currently available books.
 
    
-**3. Ask AI Feature**
+3. Ask AI Feature
+   
       AI Assistant Interaction
           Allows users to ask questions to an AI assistant.
 
