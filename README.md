@@ -1,4 +1,4 @@
-#** Library-Management-web-APP**
+# Library-Management-web-APP
 
 **Overview**
 This project is a comprehensive Library Management System built in Python, designed to manage both user authentication and book management using Excel files for data storage.
@@ -38,9 +38,8 @@ Key Features
         Displays a list of currently available books.
    
 3. Ask AI Feature
-
-  AI Assistant Interaction
-      Allows users to ask questions to an AI assistant.
+      AI Assistant Interaction
+          Allows users to ask questions to an AI assistant.
 
 
 **Technical Details**
