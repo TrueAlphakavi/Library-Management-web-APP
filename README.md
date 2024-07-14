@@ -56,7 +56,7 @@ This project is a comprehensive Library Management System built in Python, desig
    
 3. Ask AI Feature
    
-      AI Assistant Interaction
+      AI Assistant Interaction:
           Allows users to ask questions to an AI assistant.
 
 
@@ -72,6 +72,12 @@ This project is a comprehensive Library Management System built in Python, desig
 
 Data Storage:
   User credentials and book data are stored in separate Excel files.
+
+
+**Running the code:**
+
+    for CLI interaction run - main.py
+    for streamlit web app run - streamlit run ui.py
 
 ![login](https://github.com/user-attachments/assets/da57be67-412d-4f43-98a1-8f41d4ddb5c1)
 ![Manage books](https://github.com/user-attachments/assets/67c0a4b1-8bb8-41c0-b4ee-93539572cd73)
