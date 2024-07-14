@@ -3,9 +3,10 @@
 **Overview**
 This project is a comprehensive Library Management System built in Python, designed to manage both user authentication and book management using Excel files for data storage.
 
-Key Features
 
-1. User Authentication Management
+**Key Features**
+
+**1. User Authentication Management**
 
     Login Functionality
         Verifies user credentials against stored data in an Excel file.
@@ -21,7 +22,8 @@ Key Features
    
     Functions to load and save user data to/from Excel files.
 
-3. Book Management
+
+**2. Book Management**
    
     Add New Book
         Allows adding new books with details like ISBN, title, author, check-in date, and check-out date.
@@ -50,8 +52,9 @@ Key Features
    
     Show Available Books
         Displays a list of currently available books.
+
    
-5. Ask AI Feature
+**3. Ask AI Feature**
       AI Assistant Interaction
           Allows users to ask questions to an AI assistant.
 
@@ -63,7 +66,7 @@ Key Features
       Libraries Used:
       pandas: For handling Excel file operations and data manipulation.
       random and string: For generating unique user IDs.
-      google.genai : help to use gemini API for AI interactions.
+      google-generativeai : help to use gemini API for AI interactions.
       
 
 Data Storage:
